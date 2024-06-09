@@ -1,2 +1,2 @@
-# Pranavv361.github.io
- This repository has the code for my Portfolio
+# Portfolio Repository
+ This repository has the code for my Portfolio. You can fork it and customize it for creating your own Portfolio.
